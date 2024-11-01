@@ -1,0 +1,1 @@
+jQuery(document).ready(function(e){e("#alert_hide").click(function(){e("#alerta_uabbps").hide()})});
